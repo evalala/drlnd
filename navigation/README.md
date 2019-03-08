@@ -30,6 +30,12 @@ Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana
 Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)  
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)  
 
+
+## Dependencies
+
+Follow the instructions [here](../README.md).
+
+
 ## Training the agent
 
 Several agent classes are defined in `dqn_agent.py`, 
