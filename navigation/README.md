@@ -42,5 +42,5 @@ Several agent classes are defined in `dqn_agent.py`,
 the models used are defined in `model.py`.
 The function for training an agent is defined in `train.py`.
 
-The jupyter notebook `Report.py` gives examples of training runs.
+The jupyter notebook `Report.ipynb` gives examples of training runs.
 Training is done on a CPU.

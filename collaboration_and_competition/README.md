@@ -35,4 +35,4 @@ The agent class is defined in `ddpg_agent.py`,
 the models used are defined in `model.py`.
 The function for training the agent is defined in `train.py`.
 
-The jupyter notebook `Report.py` gives examples of training runs.
+The jupyter notebook `Report.ipynb` describes an example training run.
