@@ -42,6 +42,7 @@ Before running code in a notebook, change the kernel to match the drlnd environm
 ## Projects
 
 * [Navigation](navigation/README.md)
+* [Continuous Control](continuous_control/README.md)
 * [Collaboration and Competition](collaboration_and_competition/README.md)
 
 
